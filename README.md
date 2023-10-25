@@ -20,7 +20,8 @@ This repository contains documentation for Node.js, aiming to offer a well-organ
 To access the documentation, simply visit [our live website](#) or clone the repository and run it locally.
 
 ```bash
-git clone https://github.com/your-username/node-docs.git
+git clone https://github.com/vikaas127/Node-beginner-tutorial.git
+GitHub - vikaas127/
 cd node-docs
 npm install
 npm start
