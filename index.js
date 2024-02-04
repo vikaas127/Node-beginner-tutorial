@@ -8,7 +8,7 @@ http.createServer(function (request, response) {
     
     // Send the response body
     response.write('Hello World\n');
-    response.end("We are new here ");
+    response.end("We ar new here ");
 }).listen(8081);
 
 // Console will print the message
